@@ -52,7 +52,7 @@ function App() {
       <Card className="w-full max-w-md">
         <CardHeader>
           <CardTitle className="text-2xl">Contact Us</CardTitle>
-          <CardDescription>Fill out the form below to get in touch with our team.</CardDescription>
+          <CardDescription>Fillsdgfdsg out the form below to get in touch with our team.</CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">
